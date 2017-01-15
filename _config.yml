@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-markdown: redcarpet
-baseurl: /home
-exclude: ['CNAME']
-=======
-theme: jekyll-theme-minimal
->>>>>>> origin/master
